@@ -57,6 +57,11 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 - Un prestataire coche **2 catégories au maximum**. Une petite main peut accorder une dérogation dans le back-office.
 - **Zone** : le prestataire coche les **départements d'AURA** où il intervient. Le client indique la commune de l'événement, ou seulement un département s'il n'a pas encore de lieu.
 - Une première liste de mots-clés sera proposée à partir des données de l'ancienne base Neon (en attente de l'accès).
+- **Types d'événements** (liste de départ, modifiable dans le back-office) :
+  - pros : séminaire, soirée d'entreprise, team building, conférence / congrès, salon, lancement de produit, inauguration, gala, arbre de Noël, afterwork, repas d'affaires ;
+  - particuliers : mariage, fiançailles, anniversaire, baptême / communion / bar-bat mitzvah, EVJF / EVG, fête de famille / cousinade, départ en retraite, soirée privée, baby shower, gender reveal, pot de départ.
+- Le prestataire coche « pros », « particuliers » ou les deux (tous les types correspondants sont cochés), puis décoche les types qu'il refuse.
+- Type « Autre » : le client écrit son type en texte libre ; le brief est diffusé aux prestataires qui acceptent tous les types de sa famille, et le type arrive comme suggestion chez une petite main (même principe que les mots-clés).
 
 ### Questionnaire client
 - **Trois parties** : faire connaissance, l'événement, les besoins par catégorie. Chaque partie est **enregistrée au fur et à mesure**. Le questionnaire est visuel et se remplit surtout en cliquant. La formulation sera travaillée en détail plus tard.
@@ -111,10 +116,25 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
   - API sur **Render** : un serveur gratuit pendant le développement, puis l'abonnement payant de l'ancienne plateforme à la mise en production. La région sera choisie à ce moment-là.
 - Domaines : **`manie.fr`** pour le front, **`api.manie.fr`** pour l'API. `manie-event.fr` est conservé 1 à 2 ans en redirection permanente vers `manie.fr`.
 - Base de données : **nouveau projet Postgres sur Neon**, avec une branche `dev` pour le développement et les tests et une branche `prod`. L'ancienne base ne sert que de source au script d'import des données à garder (prestataires, mots-clés) ; on ne reprend pas son schéma.
-- Paiements : Stripe Connect. E-mails transactionnels : Resend. Stockage des devis PDF en accès privé (Vercel Blob décidé ; à revalider maintenant que l'API est sur Render).
+- Paiements : Stripe Connect. E-mails transactionnels : Resend. Stockage des devis PDF sur **Cloudflare R2** (via le module Drive d'Adonis), en accès privé par liens temporaires.
 - Tests : **Playwright** (end-to-end), **Vitest** pour le front, et l'outil de test d'Adonis (Japa) pour l'API, sous réserve de validation par le développeur.
-- CI : GitHub Actions.
+- CI : GitHub Actions. Les tests unitaires et end-to-end tournent sur chaque PR, et la **fusion est bloquée** tant qu'ils ne sont pas au vert (protection de branche, activée par l'administratrice). Les tests utilisent une base Postgres temporaire.
 - **Accès Neon en attente** : l'administratrice doit fournir une chaîne de connexion en lecture seule via les secrets de l'environnement (`NEON_DATABASE_URL`) et autoriser `*.neon.tech`. Ne jamais demander de secret dans le chat.
+
+## Découpage de la V1
+Chaque lot est livré en TDD dans sa propre PR.
+0. Socle : monorepo, Nuxt, Adonis, `shared`, CI, thème provisoire, déploiements de test.
+1. Comptes : inscription, connexion, rôles, back-office minimal.
+2. Référentiels : catégories, types, mots-clés, types d'événements, départements, suggestions.
+3. Prestataires : candidature, questionnaire, acceptation du contrat, validation, import des ~80, e-mail d'activation.
+4. Brief client.
+5. Matching : score, validation, notifications.
+6. Propositions, mise en relation, messagerie.
+7. Paiement : devis, Stripe Connect, acompte, commission.
+8. Suivi : relances, avis, recherche sur mesure.
+9. Mise en production : PWA, Render payant, `manie.fr`.
+
+**Ouverture** : les prestataires d'abord (après validation du contrat par l'avocat), puis les clients **au plus une semaine après**. L'ouverture aux prestataires n'a donc lieu que lorsque les lots 4 à 8 sont prêts.
 
 ## Mise en production : à rappeler à l'administratrice
 Une fois la nouvelle plateforme en ligne et stable :
