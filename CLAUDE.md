@@ -46,6 +46,26 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 - **Mots-clés** : liste fermée, gérée par Manie, commune aux questionnaires client et prestataire. Clients et prestataires peuvent **proposer** des mots-clés, intégrés après validation par une petite main.
 - Le matching automatique est **validé manuellement** par l'administratrice au départ. Cette validation doit pouvoir être désactivée plus tard.
 - Si le matching trouve trop peu de prestataires, une recherche sur mesure est proposée. L'équipe peut aussi la déclencher manuellement.
+- **Trois niveaux** : catégorie, puis **type** (premier filtre), puis **mots-clés** (score de compatibilité).
+- **Score V1** = mots-clés communs ÷ mots-clés cochés par le client dans la catégorie.
+- **11 catégories** : lieux, food, boissons, image, musique, déco, animation, son et lumière, structure, service, transport.
+  - Lieux : l'hébergement est un mot-clé.
+  - Déco : comprend la papeterie et la signalétique.
+  - Service : comprend la coiffure et le maquillage.
+  - Transport : navette, taxi, van, location de voiture…
+  - Animation : le **public** (adultes, enfants ou les deux) filtre les types proposés ; la garde d'enfants est une animation enfants.
+- Un prestataire coche **2 catégories au maximum**. Une petite main peut accorder une dérogation dans le back-office.
+- **Zone** : le prestataire coche les **départements d'AURA** où il intervient. Le client indique la commune de l'événement, ou seulement un département s'il n'a pas encore de lieu.
+- Une première liste de mots-clés sera proposée à partir des données de l'ancienne base Neon (en attente de l'accès).
+
+### Questionnaire client
+- **Trois parties** : faire connaissance, l'événement, les besoins par catégorie. Chaque partie est **enregistrée au fur et à mesure**. Le questionnaire est visuel et se remplit surtout en cliquant. La formulation sera travaillée en détail plus tard.
+- **Enfants** : demandés dans les informations générales (non / oui / je ne sais pas encore). Si oui : nombre approximatif et tranches d'âge (0-3, 4-11, 12-17 ans), chacun avec « je ne sais pas encore ». Dans la catégorie animation, le public est pré-coché d'après ces réponses. Une information manquante fait l'objet d'un rappel doux, sans bloquer la publication.
+- Le brief reste modifiable après publication, et les prestataires concernés voient la mise à jour. Les règles précises sont à trancher.
+- Les étapes 1 à 4 proposeront un accompagnement pas à pas, à développer plus tard.
+
+### Messagerie
+- V1 : messagerie **sans temps réel** (rafraîchie toutes les 15 secondes environ), avec une **notification par e-mail** à chaque nouveau message.
 
 ### Parcours en appel d'offres
 1. Le client crée son brief, puis le **publie** sur Manie.
@@ -70,15 +90,38 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 - Le client paie l'acompte (et, pour une recherche sur mesure, les frais client de 8 % ou 15 %) en **un seul paiement Stripe**. La commission est prélevée et le **reste est reversé immédiatement** au prestataire. Aucune retenue liée à un avis : l'avis est demandé après l'événement, sans lien avec l'argent.
 - **Solde** réglé en direct entre le client et le prestataire (V1).
 - **À terme (hors V1)** : faire signer au client un mandat de prélèvement pour prélever automatiquement le solde X jours après la prestation.
+- Les **frais Stripe** sont absorbés par Manie sur sa commission. Pour le prestataire : « 12 %, rien de plus ».
+
+### Contrats
+- Contrat de partenariat v2 et contrat de mise en relation ponctuelle (prestataires hors réseau) : projets en cours de relecture par l'avocat.
+- **Droit de suite** : 12 mois glissants à compter de la dernière prestation réalisée avec le client ; chaque nouvelle prestation relance le délai.
+- Le contrat est **accepté électroniquement** dans la plateforme (case à cocher). La date, l'heure et la version sont archivées. Chaque nouvelle version est à accepter de nouveau, après un préavis (règlement P2B).
+- Après validation par l'avocat : e-mail explicatif aux ~80 prestataires existants.
 
 ## Stack technique
 
-- **Nuxt** (Vue 3, Composition API), choisi aussi pour le SEO. Next.js exclu.
-- Hébergement : Vercel. Base de données : **nouvelle base Postgres sur Neon**. Les données à garder (prestataires) sont importées par script ; on ne reprend pas l'ancien schéma.
-- Paiements : Stripe Connect. E-mails transactionnels : Resend.
-- Tests : **Vitest** (unitaires) et **Playwright** (end-to-end).
+- **Monorepo pnpm** :
+  - `apps/web` : front **Nuxt** (Vue 3, Composition API), choisi aussi pour le SEO. Next.js exclu. Le serveur Nuxt ne sert qu'à afficher les pages : il appelle l'API et n'accède jamais directement à la base.
+  - `apps/api` : backend **AdonisJS** avec **Lucid** (accès à la base et migrations), l'**authentification intégrée d'Adonis** (e-mail et mot de passe, lien magique, rôles client / prestataire / back-office) et **VineJS** pour la validation.
+  - `packages/shared` : constantes métier écrites une seule fois (catégories, acompte minimum de 30 %, commissions, délai de 5 jours, 3 propositions, 6 prestataires notifiés…).
+- **L'API est la seule gardienne des données et des règles** : droits d'accès, dévoilement des coordonnées, commissions, webhooks Stripe. Le front ne refait que des vérifications de confort.
+- **Tâches planifiées** (relances, expiration des 5 jours, demandes d'avis) : un planificateur léger dans l'API, lancé toutes les heures.
+- Hébergement :
+  - front sur **Vercel** (offre payante obligatoire pour un usage commercial) ;
+  - API sur **Render** : un serveur gratuit pendant le développement, puis l'abonnement payant de l'ancienne plateforme à la mise en production. La région sera choisie à ce moment-là.
+- Domaines : **`manie.fr`** pour le front, **`api.manie.fr`** pour l'API. `manie-event.fr` est conservé 1 à 2 ans en redirection permanente vers `manie.fr`.
+- Base de données : **nouveau projet Postgres sur Neon**, avec une branche `dev` pour le développement et les tests et une branche `prod`. L'ancienne base ne sert que de source au script d'import des données à garder (prestataires, mots-clés) ; on ne reprend pas son schéma.
+- Paiements : Stripe Connect. E-mails transactionnels : Resend. Stockage des devis PDF en accès privé (Vercel Blob décidé ; à revalider maintenant que l'API est sur Render).
+- Tests : **Playwright** (end-to-end), **Vitest** pour le front, et l'outil de test d'Adonis (Japa) pour l'API, sous réserve de validation par le développeur.
 - CI : GitHub Actions.
 - **Accès Neon en attente** : l'administratrice doit fournir une chaîne de connexion en lecture seule via les secrets de l'environnement (`NEON_DATABASE_URL`) et autoriser `*.neon.tech`. Ne jamais demander de secret dans le chat.
+
+## Mise en production : à rappeler à l'administratrice
+Une fois la nouvelle plateforme en ligne et stable :
+1. Basculer l'API sur l'**abonnement Render payant** et choisir sa région.
+2. **Supprimer l'ancienne plateforme** (le service Render actuel).
+3. **Changer d'adresse e-mail** : migrer `contact@manie-event.fr` vers `@manie.fr` et faire suivre les anciens mails pendant la transition.
+4. Mettre en place la redirection permanente de `manie-event.fr` vers `manie.fr`.
 
 ## Pilotage
 - V1 : **back-office web** pour l'administratrice et les petites mains.
