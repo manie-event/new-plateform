@@ -3,6 +3,8 @@
 ## Langue
 
 Tout se passe **en français** : échanges, code commenté, messages de commit, PR, documentation.
+- Pas de « & » dans les libellés : écrire « et » (ex. « Beauté et style »).
+- Sur les catégories, les types, les mots-clés et les doublons, **toujours demander à l'administratrice de trancher** : ne rien décider seul.
 
 ## Le projet
 
@@ -47,20 +49,27 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 - Le matching automatique est **validé manuellement** par l'administratrice au départ. Cette validation doit pouvoir être désactivée plus tard.
 - Si le matching trouve trop peu de prestataires, une recherche sur mesure est proposée. L'équipe peut aussi la déclencher manuellement.
 - **Trois niveaux** : catégorie, puis **type** (premier filtre), puis **mots-clés** (score de compatibilité).
-- **Score V1** = mots-clés communs ÷ mots-clés cochés par le client dans la catégorie.
-- **11 catégories** : lieux, food, boissons, image, musique, déco, animation, son et lumière, structure, service, transport.
-  - Lieux : l'hébergement est un mot-clé.
-  - Déco : comprend la papeterie et la signalétique.
-  - Service : comprend la coiffure et le maquillage.
-  - Transport : navette, taxi, van, location de voiture…
-  - Animation : le **public** (adultes, enfants ou les deux) filtre les types proposés ; la garde d'enfants est une animation enfants.
-- Un prestataire coche **2 catégories au maximum**. Une petite main peut accorder une dérogation dans le back-office.
+- **Score V1** = mots-clés communs ÷ mots-clés cochés par le client **pour le type demandé** (le score se calcule par type, comme les 6 prestataires notifiés et les 3 propositions).
+- **8 catégories**, proposées au client dans cet ordre :
+  1. **Lieu** : lieux de réception (l'hébergement est un mot-clé) et un type **« structures et équipements à louer »** (barnum, dôme, pergola, chauffage, sanitaires…). Un client qui a déjà un lieu (loué par ses propres moyens ou privé) ne se voit pas proposer de lieux mais peut demander ce type.
+  2. **Restauration** : food, boisson, location de matériel culinaire, et les types **serveur**, **maître d'hôtel** et **limonadier** (personnel indépendant). Une question « Souhaitez-vous du service ? » (service à table, service au buffet, sans service…) fait remonter les traiteurs et bars qui fournissent leur propre personnel.
+  3. **Ambiance** : musique (DJ, chanteur, groupe…), location de matériel son et lumière (micros compris), régie technique.
+  4. **Animation** : le **public** (adultes, enfants ou les deux) filtre les types proposés ; la garde d'enfants est une animation enfants. Comprend les **ateliers bien-être** collectifs (yoga, méditation, massage…) et un type **« Prise de parole »** (officiant, speaker / maître de cérémonie, avec les mots-clés de ton : humoristique, émouvant, solennel…).
+  5. **Image** : photo, vidéo, photobooth, photomaton, livre d'or audio.
+  6. **Déco** : décoration, fleurs, papeterie, signalétique, art de la table (vaisselle), mobilier, cadeaux invités.
+  7. **Service** : installation, démontage, ménage, sécurité, livraison de matériel, transport des invités, et un type **« véhicules de cérémonie »** (2CV, voiture de collection, calèche…) affiché seulement pour certains types d'événements.
+  8. **Beauté et style** : coiffure, maquillage, esthétique (manucure, soins…), soins individuels (massage, relaxation), tenues, accessoires, chaussures.
+- **Règle d'affichage** : chaque catégorie et chaque type a une liste de types d'événements pour lesquels il est proposé au client (ex. véhicules de cérémonie pour un mariage). Liste modifiable dans le back-office (lot 2).
+- Pas de catégorie de gestion logistique ni de coordination du jour J pour l'instant (voir « Rappels datés »).
+- Les anciens **sous-groupes** de mots-clés (styles de cuisine, régimes, ambiance musicale…) deviennent les **questions du questionnaire**, rédigées en vraies phrases (« Quel style de cuisine ? »). Ils servent à ranger les mots-clés, sans effet sur le score.
+- **Doublons** : un même intitulé peut exister dans deux catégories s'il n'y a pas le même sens (ex. massage en atelier dans animation, massage individuel dans beauté et style). Deux intitulés qui veulent dire la même chose sont fusionnés. Attention : **photobooth et photomaton sont distincts** (le photomaton est une cabine fermée).
+- Un prestataire coche **2 catégories au maximum**. Une petite main peut accorder une dérogation dans le back-office. Les **loueurs ne sont pas limités** : le prestataire coche lui-même « loueur » à l'inscription, et c'est vérifié lors de la validation de sa candidature.
 - **Zone** : le prestataire coche les **départements d'AURA** où il intervient. Le client indique la commune de l'événement, ou seulement un département s'il n'a pas encore de lieu.
 - Une première liste de mots-clés est proposée à partir des données de l'ancienne base Neon (accès en lecture seule obtenu ; connexion uniquement par HTTPS depuis les sessions cloud).
 - **L'éco-responsabilité n'est pas un critère de matching** : ces mots-clés sont retirés de la liste. Ils servent de base à un futur **éco-score**, rempli à l'inscription du prestataire, avec des questions propres à chaque catégorie (ex. fruits et légumes de saison pour un traiteur, pas pour un lieu). Liste conservée dans `docs/donnees/eco-responsabilite-ancienne-base.csv`.
 - **Lieux** : capacité assise, capacité debout, couchages, limite horaire, durée minimale de location et statut (propriétaire / locataire) sont des **champs chiffrés de la fiche du lieu**, pas des mots-clés.
-- **Tous les autres mots-clés de l'ancienne base sont gardés**, y compris ceux qu'aucun prestataire n'a jamais cochés. Ils sont reclassés dans les 11 catégories, avec nettoyage des doublons et des fautes de frappe.
-- **Alerte de recrutement** : quand un client coche un mot-clé qu'**aucun prestataire validé** ne propose, l'administratrice reçoit un **e-mail et une notification dans le back-office**. Le back-office montre la liste de ces mots-clés et le nombre de demandes pour chacun : c'est la liste des priorités de recrutement. La fréquence de l'e-mail (à chaque fois ou en récapitulatif) est à trancher.
+- **Tous les autres mots-clés de l'ancienne base sont gardés**, y compris ceux qu'aucun prestataire n'a jamais cochés. Ils sont reclassés dans les 8 catégories, avec nettoyage des doublons et des fautes de frappe.
+- **Alerte de recrutement** : quand un client coche un mot-clé qu'**aucun prestataire validé** ne propose, l'administratrice reçoit un **e-mail et une notification dans le back-office**. Le back-office montre la liste de ces mots-clés et le nombre de demandes pour chacun : c'est la liste des priorités de recrutement. L'e-mail est un **récapitulatif hebdomadaire envoyé le lundi à 7 h** (semaine écoulée, du lundi au dimanche), pour la veille du responsable commercial.
 - **Types d'événements** (liste de départ, modifiable dans le back-office) :
   - pros : séminaire, soirée d'entreprise, team building, conférence / congrès, salon, lancement de produit, inauguration, gala, arbre de Noël, afterwork, repas d'affaires ;
   - particuliers : mariage, fiançailles, anniversaire, baptême / communion / bar-bat mitzvah, EVJF / EVG, fête de famille / cousinade, départ en retraite, soirée privée, baby shower, gender reveal, pot de départ.
@@ -79,9 +88,9 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 ### Parcours en appel d'offres
 1. Le client crée son brief, puis le **publie** sur Manie.
 2. Le matching calcule les prestataires compatibles. L'administratrice **valide la liste avant l'envoi** des notifications. Le client voit le statut « Publié, en cours de diffusion ».
-3. Les **6 prestataires les plus compatibles par catégorie** (au-dessus d'un seuil réglable dans le back-office) sont notifiés.
+3. Les **6 prestataires les plus compatibles par type demandé** (traiteur, bar mobile, DJ…, et non par catégorie) (au-dessus d'un seuil réglable dans le back-office) sont notifiés.
 4. Un prestataire intéressé se positionne sous **5 jours** avec une fourchette de prix, une description et une confirmation de disponibilité à la date (case obligatoire).
-5. Le client reçoit **3 propositions au maximum par catégorie** (les premières arrivées). Les prestataires suivants sont prévenus que l'appel d'offres est complet.
+5. Le client reçoit **3 propositions au maximum par type demandé** (les premières arrivées). Les prestataires suivants sont prévenus que l'appel d'offres est complet.
 6. Le client accepte ou refuse chaque proposition. S'il accepte, la **mise en relation** est créée et **horodatée**, les **coordonnées sont dévoilées** des deux côtés et une **messagerie interne** s'ouvre.
 7. Le prestataire **dépose le PDF du devis et saisit le montant HT**. Le client coche une attestation sur l'honneur, valide, puis paie l'acompte sur Stripe.
 - Relances automatiques sur l'avancement de la mise en relation (« Avez-vous signé ? »).
@@ -146,6 +155,9 @@ Une fois la nouvelle plateforme en ligne et stable :
 2. **Supprimer l'ancienne plateforme** (le service Render actuel).
 3. **Changer d'adresse e-mail** : migrer `contact@manie-event.fr` vers `@manie.fr` et faire suivre les anciens mails pendant la transition.
 4. Mettre en place la redirection permanente de `manie-event.fr` vers `manie.fr`.
+
+## Rappels datés
+- **Janvier 2027** : reproposer à l'administratrice une offre de **gestion logistique** et de **coordination du jour J** (coordinateurs, régisseurs de journée). Pas de catégorie pour l'instant, en attendant d'avoir des personnes de confiance.
 
 ## Pilotage
 - V1 : **back-office web** pour l'administratrice et les petites mains.
