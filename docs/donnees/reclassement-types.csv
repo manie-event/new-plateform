@@ -1,0 +1,73 @@
+categorie,type_propose,ancien_type,a_trancher
+Lieu,salle,lieux / salle,
+Lieu,domaine,lieux / domaine,
+Lieu,château,lieux / château,
+Lieu,villa,lieux / villa,
+Lieu,appartement,lieux / appartement,
+Lieu,gîte,lieux / gîte,
+Lieu,hôtel,lieux / hôtel,
+Lieu,maison d'hôte,lieux / maison d’hôte,
+Lieu,restaurant,lieux / restaurant,
+Lieu,bar,lieux / bar,
+Lieu,bateau ou péniche,lieux / bateau + péniche,
+Lieu,parc ou jardin,lieux / parc/jardin,
+Lieu,rooftop,lieux / rooftop,
+Lieu,tiers-lieu,lieux / tiers-lieu,
+Lieu,structures et équipements à louer,loueur / structure + confort,
+Restauration,traiteur,food / traiteur,
+Restauration,food-truck,food / food-truck,
+Restauration,chef privé,food / chef privé,
+Restauration,restaurateur,food / restaurateur,
+Restauration,boulanger,food / boulanger,
+Restauration,pâtissier,food / pâtissier,
+Restauration,bar mobile,boisson / bar mobile,
+Restauration,mixologue,boisson / mixologue,
+Restauration,brasseur,boisson / brasseur,
+Restauration,vigneron,boisson / vigneron,
+Restauration,fournisseur de boissons,boisson / fournisseur,
+Restauration,location de matériel culinaire,(nouveau),
+Restauration,serveur,service / serveur,
+Restauration,maître d'hôtel,service / maître d'hôtel,
+Restauration,limonadier,service / limonadier,
+Ambiance,DJ,musique / dj,
+Ambiance,musicien solo,musique / musicien,
+Ambiance,chanteur solo,musique / chanteur,
+Ambiance,groupe,musique / groupe + duo,(info) Les anciens duos de musique rejoignent le type « groupe ».
+Ambiance,chorale gospel,(nouveau),"(info) « Quel format ? » : DJ ou musique live ; si live : musicien solo, chanteur solo, groupe, chorale gospel."
+Ambiance,location de matériel son et lumière,loueur / matériel-audiovisuel + matériel-exte,(info) « matériel-exte » était un loueur son et lumière.
+Ambiance,régie technique,(nouveau),(info) Mots-clés créés (décision 4).
+Animation,jeux et spectacles,animation / jeu et spectacle,
+Animation,art visuel,animation / art visuel,
+Animation,performers,animation / performer,
+Animation,ateliers bien-être,animation / bien-être,
+Animation,ateliers créatifs,(nouveau),
+Animation,garde d'enfants,(nouveau),(info) Mots-clés créés (décisions 5 et 6).
+Animation,prise de parole,humain / officiant,
+Image,photographe,audiovisuel / photographe,
+Image,vidéaste,audiovisuel / vidéaste,
+Image,duo photo et vidéo,audiovisuel / duo,
+Image,photobooth,loueur / photo booth,
+Image,photomaton,(nouveau),(info) Distinct du photobooth (décision).
+Image,vidéobooth,loueur / vidéo booth,
+Image,livre d'or audio,loueur / livre-audio,
+Déco,décorateur,décoration / décorateur,
+Déco,fleuriste,décoration / fleuriste,
+Déco,graphiste et papeterie,décoration / graphiste,
+Déco,paysagiste,décoration / paysagiste,
+Déco,cadeaux invités,décoration / cadeau invité,
+Déco,location de mobilier,loueur / mobilier,
+Déco,location d'art de la table,loueur / vaisselle,
+Service,installation et démontage,(nouveau),(info) « Société de services » est supprimé.
+Service,ménage,logistique / nettoyage + société de ménage,(info) Fusion de deux anciens types.
+Service,sécurité,logistique / agent de sécurité + société de sécurité,(info) Fusion de deux anciens types.
+Service,livraison de matériel,logistique / livreur,
+Service,transport des invités,transport / taxi + chauffeur + logistique / société de transport,(info) Fusion de trois anciens types.
+Service,véhicules de cérémonie,transport / véhicule + chevaux,
+Service,hôte ou hôtesse d'accueil,service / hôte.sse,
+Beauté et style,coiffure,beauté / coiffure,
+Beauté et style,maquillage,beauté / maquillage,
+Beauté et style,ongles,esthétique / ongles,
+Beauté et style,cils et sourcils,esthétique / cils + sourcils,(info) Fusion de deux anciens types.
+Beauté et style,soins,esthétique / soin,
+Beauté et style,tenues,look / loueur tenue + magasin tenue,(info) Fusion ; la question « Achat ou location ? » fait la différence.
+(en attente),coordinateur,humain / coordinateur,(info) Reporté à janvier 2027.

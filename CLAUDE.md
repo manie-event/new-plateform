@@ -68,7 +68,7 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 - Une première liste de mots-clés est proposée à partir des données de l'ancienne base Neon (accès en lecture seule obtenu ; connexion uniquement par HTTPS depuis les sessions cloud).
 - **L'éco-responsabilité n'est pas un critère de matching** : ces mots-clés sont retirés de la liste. Ils servent de base à un futur **éco-score**, rempli à l'inscription du prestataire, avec des questions propres à chaque catégorie (ex. fruits et légumes de saison pour un traiteur, pas pour un lieu). Liste conservée dans `docs/donnees/eco-responsabilite-ancienne-base.csv`.
 - **Lieux** : capacité assise, capacité debout, couchages, limite horaire, durée minimale de location et statut (propriétaire / locataire) sont des **champs chiffrés de la fiche du lieu**, pas des mots-clés.
-- **Tous les autres mots-clés de l'ancienne base sont gardés**, y compris ceux qu'aucun prestataire n'a jamais cochés. Ils sont reclassés dans les 8 catégories, avec nettoyage des doublons et des fautes de frappe.
+- **Tous les autres mots-clés de l'ancienne base sont gardés**, y compris ceux qu'aucun prestataire n'a jamais cochés. Ils sont reclassés dans les 8 catégories, avec nettoyage des doublons et des fautes de frappe. Le reclassement arbitré (types, questions, mots-clés, ajouts et suppressions) est dans `docs/donnees/reclassement-mots-cles.md` et ses deux CSV ; il sert de source au lot 2 (référentiels).
 - **Alerte de recrutement** : quand un client coche un mot-clé qu'**aucun prestataire validé** ne propose, l'administratrice reçoit un **e-mail et une notification dans le back-office**. Le back-office montre la liste de ces mots-clés et le nombre de demandes pour chacun : c'est la liste des priorités de recrutement. L'e-mail est un **récapitulatif hebdomadaire envoyé le lundi à 7 h** (semaine écoulée, du lundi au dimanche), pour la veille du responsable commercial.
 - **Types d'événements** (liste de départ, modifiable dans le back-office) :
   - pros : séminaire, soirée d'entreprise, team building, conférence / congrès, salon, lancement de produit, inauguration, gala, arbre de Noël, afterwork, repas d'affaires ;
@@ -79,6 +79,13 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 ### Questionnaire client
 - **Trois parties** : faire connaissance, l'événement, les besoins par catégorie. Chaque partie est **enregistrée au fur et à mesure**. Le questionnaire est visuel et se remplit surtout en cliquant. La formulation sera travaillée en détail plus tard.
 - **Enfants** : demandés dans les informations générales (non / oui / je ne sais pas encore). Si oui : nombre approximatif et tranches d'âge (0-3, 4-11, 12-17 ans), chacun avec « je ne sais pas encore ». Dans la catégorie animation, le public est pré-coché d'après ces réponses. Une information manquante fait l'objet d'un rappel doux, sans bloquer la publication.
+- **Horaires et déroulé** : dans la partie « l'événement », le client indique l'heure de début et de fin, et peut décrire un **déroulé facultatif** (cérémonie, cocktail, repas, soirée…, chaque étape avec un horaire, « je ne sais pas encore » possible). Utile notamment à la garde d'enfants, au photographe, au DJ et au traiteur.
+- **Questions conditionnelles** : une réponse peut masquer ou pré-remplir des questions d'une catégorie suivante. Exemples :
+  - « j'ai déjà un lieu » : pas de lieux proposés, mais les structures et équipements à louer restent accessibles ;
+  - enfants déclarés : public pré-coché en animation ;
+  - en restauration, « Le traiteur doit-il fournir la vaisselle et la verrerie ? » : si oui, la location de vaisselle n'est pas proposée en déco (un rappel l'explique) ; si « je ne sais pas encore », elle reste proposée ;
+  - en déco, la première question est « être accompagné par un décorateur / louer soi-même le mobilier et l'art de la table / les deux » ;
+  - en ambiance, « Quel format ? » : DJ ou musique live ; si musique live : musicien solo, chanteur solo, groupe, chorale gospel.
 - Le brief reste modifiable après publication, et les prestataires concernés voient la mise à jour. Les règles précises sont à trancher.
 - Les étapes 1 à 4 proposeront un accompagnement pas à pas, à développer plus tard.
 
