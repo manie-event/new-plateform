@@ -56,7 +56,11 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
   - Animation : le **public** (adultes, enfants ou les deux) filtre les types proposés ; la garde d'enfants est une animation enfants.
 - Un prestataire coche **2 catégories au maximum**. Une petite main peut accorder une dérogation dans le back-office.
 - **Zone** : le prestataire coche les **départements d'AURA** où il intervient. Le client indique la commune de l'événement, ou seulement un département s'il n'a pas encore de lieu.
-- Une première liste de mots-clés sera proposée à partir des données de l'ancienne base Neon (en attente de l'accès).
+- Une première liste de mots-clés est proposée à partir des données de l'ancienne base Neon (accès en lecture seule obtenu ; connexion uniquement par HTTPS depuis les sessions cloud).
+- **L'éco-responsabilité n'est pas un critère de matching** : ces mots-clés sont retirés de la liste. Ils servent de base à un futur **éco-score**, rempli à l'inscription du prestataire, avec des questions propres à chaque catégorie (ex. fruits et légumes de saison pour un traiteur, pas pour un lieu). Liste conservée dans `docs/donnees/eco-responsabilite-ancienne-base.csv`.
+- **Lieux** : capacité assise, capacité debout, couchages, limite horaire, durée minimale de location et statut (propriétaire / locataire) sont des **champs chiffrés de la fiche du lieu**, pas des mots-clés.
+- **Tous les autres mots-clés de l'ancienne base sont gardés**, y compris ceux qu'aucun prestataire n'a jamais cochés. Ils sont reclassés dans les 11 catégories, avec nettoyage des doublons et des fautes de frappe.
+- **Alerte de recrutement** : quand un client coche un mot-clé qu'**aucun prestataire validé** ne propose, l'administratrice reçoit un **e-mail et une notification dans le back-office**. Le back-office montre la liste de ces mots-clés et le nombre de demandes pour chacun : c'est la liste des priorités de recrutement. La fréquence de l'e-mail (à chaque fois ou en récapitulatif) est à trancher.
 - **Types d'événements** (liste de départ, modifiable dans le back-office) :
   - pros : séminaire, soirée d'entreprise, team building, conférence / congrès, salon, lancement de produit, inauguration, gala, arbre de Noël, afterwork, repas d'affaires ;
   - particuliers : mariage, fiançailles, anniversaire, baptême / communion / bar-bat mitzvah, EVJF / EVG, fête de famille / cousinade, départ en retraite, soirée privée, baby shower, gender reveal, pot de départ.
@@ -119,7 +123,7 @@ Manie est une agence événementielle digitale régionale (Auvergne-Rhône-Alpes
 - Paiements : Stripe Connect. E-mails transactionnels : Resend. Stockage des devis PDF sur **Cloudflare R2** (via le module Drive d'Adonis), en accès privé par liens temporaires.
 - Tests : **Playwright** (end-to-end), **Vitest** pour le front, et l'outil de test d'Adonis (Japa) pour l'API, sous réserve de validation par le développeur.
 - CI : GitHub Actions. Les tests unitaires et end-to-end tournent sur chaque PR, et la **fusion est bloquée** tant qu'ils ne sont pas au vert (protection de branche, activée par l'administratrice). Les tests utilisent une base Postgres temporaire.
-- **Accès Neon en attente** : l'administratrice doit fournir une chaîne de connexion en lecture seule via les secrets de l'environnement (`NEON_DATABASE_URL`) et autoriser `*.neon.tech`. Ne jamais demander de secret dans le chat.
+- **Accès à l'ancienne base Neon** : chaîne de connexion en lecture seule fournie dans les secrets de l'environnement (`NEON_DATABASE_URL`, rôle `claude_lecture`, droits `SELECT` uniquement). Depuis les sessions cloud, le port Postgres 5432 est bloqué : on interroge la base par son point d'accès HTTPS (`https://<hôte>/sql` ou le pilote `@neondatabase/serverless`). Ne jamais afficher ni demander de secret dans le chat.
 
 ## Découpage de la V1
 Chaque lot est livré en TDD dans sa propre PR.
@@ -128,7 +132,7 @@ Chaque lot est livré en TDD dans sa propre PR.
 2. Référentiels : catégories, types, mots-clés, types d'événements, départements, suggestions.
 3. Prestataires : candidature, questionnaire, acceptation du contrat, validation, import des ~80, e-mail d'activation.
 4. Brief client.
-5. Matching : score, validation, notifications.
+5. Matching : score, validation, notifications, alerte de recrutement.
 6. Propositions, mise en relation, messagerie.
 7. Paiement : devis, Stripe Connect, acompte, commission.
 8. Suivi : relances, avis, recherche sur mesure.
