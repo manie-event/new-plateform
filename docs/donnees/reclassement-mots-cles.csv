@@ -1,0 +1,1022 @@
+ancien_secteur,ancien_sous_groupe,mot_cle_ancien,nb_prestataires,mot_cle_propose,categorie,question,types,action,a_trancher,note
+lieux,environnement,avec vue,1,avec vue,Lieu,Dans quel environnement ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,environnement,bord de l’eau,2,bord de l’eau,Lieu,Dans quel environnement ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,environnement,champêtre,2,champêtre,Lieu,Dans quel environnement ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,environnement,isolé,1,isolé,Lieu,Dans quel environnement ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,environnement,montagneux,2,montagneux,Lieu,Dans quel environnement ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,environnement,urbain,7,urbain,Lieu,Dans quel environnement ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,environnement,viticole,1,viticole,Lieu,Dans quel environnement ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,abri extérieur,3,abri extérieur,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,bar privé,5,bar privé,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,cave aménagée,3,cave aménagée,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,cour extérieure,2,cour extérieure,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,douche,3,douche,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,espace cérémonie dédié,4,espace cérémonie dédié,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,espace enfant dédié,3,espace enfant dédié,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,espace photo dédié,4,espace photo dédié,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,espace traiteur dédié,4,espace traiteur dédié,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,extérieur clôturé,4,extérieur clôturé,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,extérieur non clôturé,3,extérieur non clôturé,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,fontaine,2,fontaine,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,hammam,0,hammam,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,jardin privatif,4,jardin privatif,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,lieu de culte,1,lieu de culte,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,parking privé,5,parking privé,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,patio,0,patio,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,piscine extérieure,2,piscine extérieure,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,piscine intérieure,0,piscine intérieure,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,point d'eau naturel,1,point d'eau naturel,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,salle de fitness,0,salle de fitness,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,salle de réception,10,salle de réception,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,sauna,1,sauna,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,scène,1,scène,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,stockage,1,stockage,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,terrain de pétanque,4,terrain de pétanque,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,terrain sportif,0,terrain sportif,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,terrasse extérieure,8,terrasse extérieure,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,verrière,0,verrière,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,vestiaire,5,vestiaire,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,véranda,0,véranda,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,espaces,wc,7,wc,Lieu,De quels espaces avez-vous besoin ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,privatisation,partagée,5,partagée,Lieu,Quelle privatisation souhaitez-vous ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,privatisation,partielle,7,partielle,Lieu,Quelle privatisation souhaitez-vous ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,privatisation,totale,11,totale,Lieu,Quelle privatisation souhaitez-vous ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+loueur,structure,barnum,2,barnum,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+loueur,structure,dôme-bulle,0,dôme-bulle,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+loueur,structure,espace gonflable,0,espace gonflable,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,"Pour les adultes (boîte de nuit, bar gonflable, ice bar…)."
+loueur,structure,hébergement mobile,0,hébergement mobile,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+loueur,structure,parasol,0,parasol,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+loueur,structure,pergola,0,pergola,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+loueur,structure,plancher,2,plancher,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+loueur,structure,scène,1,scène,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,Sens différent de la scène d'un lieu : on garde les deux.
+loueur,structure,tente de réception,1,tente de réception,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+loueur,structure,tonnelle,1,tonnelle,Lieu,Quelles structures souhaitez-vous louer ?,structures et équipements à louer,garder,,
+lieux,options lieux,accueil client,8,accueil client,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,options lieux,animation,6,animation,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,options lieux,coordination prestataires,6,coordination prestataires,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,Option proposée par le lieu : gardée (décision 20).
+lieux,options lieux,décoration,5,décoration,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,options lieux,couchages,4,hébergement sur place,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",reformuler,,
+lieux,options lieux,ménage,8,ménage,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,options lieux,traiteur ou restauration,6,traiteur ou restauration,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,options lieux,transport des invités,3,transport des invités,Lieu,Quels services du lieu vous intéressent ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+loueur,confort,brumisateur,0,brumisateur,Lieu,Quels équipements de confort ?,structures et équipements à louer,garder,,
+loueur,confort,chauffage mobile,2,chauffage mobile,Lieu,Quels équipements de confort ?,structures et équipements à louer,garder,,
+loueur,confort,chauffe-terrasse,1,chauffe-terrasse,Lieu,Quels équipements de confort ?,structures et équipements à louer,garder,,
+loueur,confort,climatisation mobile,0,climatisation mobile,Lieu,Quels équipements de confort ?,structures et équipements à louer,garder,,
+loueur,confort,groupe électrogène,1,groupe électrogène,Lieu,Quels équipements de confort ?,structures et équipements à louer,garder,,
+loueur,confort,sanitaires,0,sanitaires,Lieu,Quels équipements de confort ?,structures et équipements à louer,garder,,
+lieux,équipements,abri mobile extérieur,2,abri mobile extérieur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,accessoires piscine,1,accessoires piscine,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,bar,1,bar,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,barbecue,2,barbecue,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,brasero,3,brasero,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,brumisateur,0,brumisateur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,Sens différent du brumisateur à louer : on garde les deux.
+lieux,équipements,chambre froide,3,chambre froide,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,chauffage,11,chauffage,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,climatisation,9,climatisation,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,congélateur,3,congélateur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,draps,4,draps,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,four ou étuve,4,four ou étuve,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,jacuzzi,1,jacuzzi,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,lumières mobiles,3,lumières mobiles,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,matériel ménager,2,matériel ménager,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,micro,8,micro,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,mobilier extérieur,8,mobilier extérieur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,mobilier intérieur,9,mobilier intérieur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,plan de travail,6,plan de travail,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,plancha,1,plancha,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,pupitre,3,pupitre,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,réfrigérateur,5,réfrigérateur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,serviettes,6,serviettes,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,sonorisation,10,sonorisation,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,vaisselle,3,vaisselle,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,ventilateur ou pâle,3,ventilateur ou pales,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",corriger,,
+lieux,équipements,vidéo projecteur,8,vidéoprojecteur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",corriger,,
+lieux,équipements,échelle traiteur,3,échelle traiteur,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,équipements,écran de projection,6,écran de projection,Lieu,Quels équipements doivent être sur place ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,accessibilité,animaux,9,animaux,Lieu,Qui doit pouvoir être accueilli ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,accessibilité,enfants,11,enfants,Lieu,Qui doit pouvoir être accueilli ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,accessibilité,personnes à mobilité réduite,10,personnes à mobilité réduite,Lieu,Qui doit pouvoir être accueilli ?,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",garder,,
+lieux,limite horaire,00h-2h,0,00h-2h,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,couchages,10-20,0,10-20,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité assise,100-150,0,100-150,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité debout,100-150,0,100-150,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité assise,150-200,0,150-200,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité debout,150-200,0,150-200,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,couchages,20-30,0,20-30,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité debout,200-300,0,200-300,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,minimum loc,24h,0,24h,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,limite horaire,2h-4h,0,2h-4h,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,couchages,30-40,0,30-40,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,couchages,40-50,0,40-50,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,minimum loc,48h,0,48h,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité assise,50-100,0,50-100,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,minimum loc,72h,0,72h,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,minimum loc,aucun,0,aucun,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,limite horaire,aucune,0,aucune,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,prestations imposées,boissons,5,boissons,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,prestations imposées,dj,0,dj,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,statut,locataire,0,locataire,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,limite horaire,Minuit,0,Minuit,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,couchages,moins de 10,0,moins de 10,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité debout,moins de 100,0,moins de 100,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité assise,moins de 50,0,moins de 50,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité assise,plus de 200,0,plus de 200,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,minimum loc,plus de 3 jours,0,plus de 3 jours,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,capacité debout,plus de 300,0,plus de 300,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,limite horaire,plus de 4h,0,plus de 4h,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,couchages,plus de 50,0,plus de 50,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,statut,propriétaire,0,propriétaire,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,prestations imposées,restauration ou traiteur,6,restauration ou traiteur,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,prestations imposées,sécurité,3,sécurité,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,prestations imposées,techniciens,0,techniciens,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+lieux,minimum loc,une soirée,0,une soirée,Lieu,—,"salle, domaine, château, villa, appartement, gîte, hôtel, maison d'hôte, restaurant, bar, bateau ou péniche, parc ou jardin, rooftop, tiers-lieu",champ de la fiche du lieu,,
+food,régimes,allergies,17,allergies,Restauration,Des régimes particuliers ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,régimes,casher,6,casher,Restauration,Des régimes particuliers ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,régimes,hallal,14,halal,Restauration,Des régimes particuliers ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",corriger,,
+food,régimes,intolérances,17,intolérances,Restauration,Des régimes particuliers ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,régimes,végan,14,végan,Restauration,Des régimes particuliers ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,régimes,végétarien,25,végétarien,Restauration,Des régimes particuliers ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,beignets,1,beignets,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,churros,2,churros,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,cookies,6,cookies,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,crêpes,9,crêpes sucrées,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",reformuler,,
+food,sucré,entremet,6,entremet,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,gaufres,4,gaufres sucrées,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",reformuler,,
+food,sucré,glaces,6,glaces,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,grazing sucrée,6,grazing sucrée,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,gâteau à partager,13,gâteau à partager,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,layer cake,2,layer cake,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,mignardises,13,mignardises,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,naked cake,3,naked cake,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,number cake,2,number cake,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,pièce montée,3,pièce montée,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,plateau ou panier de fruits,8,plateau ou panier de fruits,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,sucré,wedding cake,3,wedding cake,Restauration,Et côté sucré ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+(nouveau),,,0,fourniture de vaisselle et verrerie,Restauration,Le traiteur doit-il fournir la vaisselle et la verrerie ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",ajouter,,"Décision 16 : si oui, la location de vaisselle n'est pas proposée en Déco."
+loueur,culinaire,bain-marie,0,bain-marie,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,barbecue,0,barbecue,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,brasero,0,brasero,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,broche,0,broche,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,chambre froide,0,chambre froide,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,crêpière,1,crêpière,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,fontaine de chocolat,0,fontaine de chocolat,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,friteuse professionnelle,1,friteuse professionnelle,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,gaufrier,1,gaufrier,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,machine à barbe-à-papa,1,machine à barbe-à-papa,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,machine à glace italienne,0,machine à glace italienne,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,machine à glaçon,1,machine à glaçon,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,machine à granité,0,machine à granité,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,machine à hot-dog,1,machine à hot-dog,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,machine à kebab,0,machine à kebab,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,machine à pop-corn,1,machine à pop-corn,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,percolateur café,1,percolateur café,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,réchaud,0,réchaud,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,réfrigérateur,0,réfrigérateur,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+loueur,culinaire,étuve,0,étuve,Restauration,Quel matériel de cuisine souhaitez-vous louer ?,location de matériel culinaire,garder,,
+boisson,matériel-boisson,fût,9,fût,Restauration,Quel matériel pour les boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,matériel-boisson,éco-cups,10,gobelets réutilisables,Restauration,Quel matériel pour les boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",reformuler,,
+boisson,matériel-boisson,mobilier,9,mobilier,Restauration,Quel matériel pour les boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,Mobilier du bar.
+boisson,matériel-boisson,pailles responsables,10,pailles responsables,Restauration,Quel matériel pour les boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,matériel-boisson,sous-verre,0,sous-verre,Restauration,Quel matériel pour les boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,matériel-boisson,tireuse,8,tireuse,Restauration,Quel matériel pour les boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,matériel-boisson,verrerie,10,verrerie,Restauration,Quel matériel pour les boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+food,cuisines,africaine,1,africaine,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,américaine,2,américaine,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,asiatique,2,asiatique,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,française,12,française,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,fusion,2,fusion,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,latino-américaine,1,latino-américaine,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,moderne,4,moderne,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,méditerranéenne,17,méditerranéenne,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,orientale,2,orientale,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,régionale,8,régionale,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,street-food,14,street food,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",corriger,,
+food,cuisines,traditionnelle,8,traditionnelle,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,viandarde,7,viandarde,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,cuisines,végétale,12,végétale,Restauration,Quel style de cuisine ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+service,matériel serveur,gants,2,gants,Restauration,Quelle tenue et quel matériel pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,matériel serveur,gel hydro-alcoolique,2,gel hydro-alcoolique,Restauration,Quelle tenue et quel matériel pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,matériel serveur,liteau,2,liteau,Restauration,Quelle tenue et quel matériel pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,matériel serveur,poubelle de table,2,poubelle de table,Restauration,Quelle tenue et quel matériel pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,matériel serveur,tablier de service,1,tablier de service,Restauration,Quelle tenue et quel matériel pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,matériel serveur,tenue professionnelle,4,tenue professionnelle,Restauration,Quelle tenue et quel matériel pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,matériel serveur,limonadier,4,tire-bouchon limonadier,Restauration,Quelle tenue et quel matériel pour le personnel ?,"serveur, maître d'hôtel, limonadier",reformuler,,Pour ne pas confondre avec le type « limonadier ».
+boisson,type,bière,10,bière,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+(nouveau),,,0,boissons chaudes,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+(nouveau),,,0,boissons glacées,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+(nouveau),,,0,café,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+(nouveau),,,0,chocolat chaud,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+boisson,type,cocktail,10,cocktail,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+(nouveau),,,0,infusion,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+boisson,type,jus artisanaux,9,jus artisanaux,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+food,sucré,jus pressés,4,jus pressés,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,Déplacé vers les boissons (décision 13).
+boisson,type,kombucha,1,kombucha,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+(nouveau),,,0,matcha,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+food,sucré,milkshake,2,milkshake,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,Déplacé vers les boissons (décision 13).
+boisson,type,mocktail,9,mocktail,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+(nouveau),,,0,pomme chaude,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+food,sucré,smoothie,2,smoothie,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,Déplacé vers les boissons (décision 13).
+boisson,type,sodas artisanaux,11,sodas artisanaux,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,type,spiritueux,11,spiritueux,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+(nouveau),,,0,thé,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+boisson,type,vin blanc,12,vin blanc,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+(nouveau),,,0,vin chaud,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 13.
+boisson,type,vin pétillant,12,vin pétillant,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,type,vin rosé,12,vin rosé,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,type,vin rouge,12,vin rouge,Restauration,Quelles boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+food,salé,animation unique,12,animation culinaire en portion individuelle,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",reformuler,,Un cuisinier sert une portion par personne.
+food,salé,animation xxl,9,animation culinaire XXL à partager,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",reformuler,,"Un grand plat pour tous (paella, couscous…)."
+food,salé,barbecue,3,barbecue,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,brasero,4,brasero,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,broche,2,broche,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,crêpes,1,galettes bretonnes,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",reformuler,,
+food,salé,gaufres,1,gaufres salées,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",reformuler,,
+food,salé,grazing mixte,6,grazing mixte,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,grazing salée,6,grazing salée,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,mets haut de gamme,4,mets haut de gamme,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,mini plats,8,mini plats,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,méchoui,1,méchoui,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,pizza,2,pizza,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,pièces cocktail,13,pièces cocktail,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,planches,14,planches,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,plat chaud,17,plat chaud,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,plat de saison,7,plat de saison,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,plat du marché,3,plat du marché,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,rôtisserie,1,rôtisserie,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,salade composée,8,salade composée,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,salé,tapas-mezze-antipasti,9,tapas-mezze-antipasti,Restauration,Quelles envies côté salé ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+service,serveur,accueil des invités,3,accueil des invités,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,direction des invités,2,direction des invités,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,débarrassage,3,débarrassage,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,gestion des fûts,3,gestion des fûts,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,ouverture bouteille,3,ouverture bouteille,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,passsage plateau,3,passage de plateaux,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",corriger,,
+service,serveur,plonge,2,plonge,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,réapprovisionnement des stocks,3,réapprovisionnement des stocks,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,service boissons,3,service boissons,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+service,serveur,service à table,3,service à table,Restauration,Quelles missions pour le personnel ?,"serveur, maître d'hôtel, limonadier",garder,,
+boisson,options boisson,installation,11,installation,Restauration,Quelles prestations autour des boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,options boisson,livraison,15,livraison,Restauration,Quelles prestations autour des boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+boisson,options boisson,reprise,13,reprise,Restauration,Quelles prestations autour des boissons ?,"bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",garder,,
+(nouveau),,,0,passage de plateaux,Restauration,Souhaitez-vous du service ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier, bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 15.
+(nouveau),,,0,sans service,Restauration,Souhaitez-vous du service ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier, bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 15.
+(nouveau),,,0,service au buffet,Restauration,Souhaitez-vous du service ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier, bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 15.
+boisson,options boisson,service,11,service des boissons,Restauration,Souhaitez-vous du service ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier, bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",reformuler,,Rejoint la question « Souhaitez-vous du service ? ».
+(nouveau),,,0,service à l'assiette,Restauration,Souhaitez-vous du service ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier, bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 15.
+(nouveau),,,0,service à table de plats à partager,Restauration,Souhaitez-vous du service ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier, bar mobile, mixologue, brasseur, vigneron, fournisseur de boissons",ajouter,,Décision 15.
+(nouveau),,,0,ambulant,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",ajouter,,"Restauration itinérante (food-truck, stand mobile)."
+food,format-food,animation culinaire,11,animation culinaire,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,brunch,15,brunch,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,buffet,15,buffet,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,cocktail apéritif,14,cocktail apéritif,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,cocktail déjeunatoire,14,cocktail déjeunatoire,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,cocktail dinatoire,15,cocktail dînatoire,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",corriger,,
+food,format-food,collation,9,collation,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,dégustation,6,dégustation,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,déjeuner à l'assiette,15,déjeuner à l'assiette,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,dîner à l'assiette,8,dîner à l'assiette,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,goûter,12,goûter,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,petit déjeuner,13,petit déjeuner,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+food,format-food,plats à partager,20,plats à partager,Restauration,Sous quelle forme ?,"traiteur, food-truck, chef privé, restaurateur, boulanger, pâtissier",garder,,
+(nouveau),,,0,captation vidéo,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,diffusion en direct,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,gestion des micros,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,installation et démontage du matériel,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,mise en lumière du lieu,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,sonorisation,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,technicien présent pendant l'événement,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,traduction simultanée,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,vidéoprojection,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,éclairage scénique,Ambiance,De quoi avez-vous besoin ?,régie technique,ajouter,,Décision 4.
+musique,technique,ambiance lumineuse,6,ambiance lumineuse,Ambiance,Faut-il fournir du matériel ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,technique,matériel scénographique,6,matériel scénographique,Ambiance,Faut-il fournir du matériel ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,technique,micro,11,micro,Ambiance,Faut-il fournir du matériel ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,technique,sonorisation,11,sonorisation,Ambiance,Faut-il fournir du matériel ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+(nouveau),,,0,concert ou live,Ambiance,Pour quel usage ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,conférence ou table ronde,Ambiance,Pour quel usage ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,cérémonie,Ambiance,Pour quel usage ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,soirée dansante,Ambiance,Pour quel usage ?,régie technique,ajouter,,Décision 4.
+(nouveau),,,0,événement hybride,Ambiance,Pour quel usage ?,régie technique,ajouter,,Décision 4.
+loueur,audiovisuel,caméra,1,caméra,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,supprimer,,Retiré pour le moment (décision 19).
+loueur,audiovisuel,micro,2,micro,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,garder,,
+loueur,audiovisuel,moniteur,2,moniteur,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,supprimer,,Retiré pour le moment (décision 19).
+loueur,audiovisuel,système son,2,système son,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,garder,,
+loueur,audiovisuel,table de mixage,1,table de mixage,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,garder,,
+loueur,audiovisuel,vidéo-projecteur,4,vidéoprojecteur,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,corriger,,
+loueur,audiovisuel,écran de projection,4,écran de projection,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,garder,,
+loueur,audiovisuel,écran led,2,écran led,Ambiance,Quel matériel son et image ?,location de matériel son et lumière,garder,,
+musique,but,accompagner,9,accompagner,Ambiance,Quel rôle pour la musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,but,faire danser,11,faire danser,Ambiance,Quel rôle pour la musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,danse,8,danse,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,dark,0,dark,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,douceur,4,douceur,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,couleur,0,festive,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",reformuler,,
+musique,mood,joie,11,joie,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,mélancolique,0,mélancolique,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,simplicité,1,simplicité,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,sobriété,1,sobriété,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,soleil,9,soleil,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,émotion,7,émotion,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,mood,energie,9,énergie,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",corriger,,
+musique,mood,épuré,3,épuré,Ambiance,Quelle ambiance musicale ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,playlist,confiance totale,4,confiance totale,Ambiance,Quelle liberté sur la playlist ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,playlist,droit de regard,3,droit de regard,Ambiance,Quelle liberté sur la playlist ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,playlist,personnalisée,6,personnalisée,Ambiance,Quelle liberté sur la playlist ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+animation,jeux,bar à vinyle,0,bar à vinyle,Ambiance,Quelles animations proposées par le DJ ?,DJ,garder,,Proposé par un DJ (décision 19).
+loueur,ambiance,carroussel lumineux,0,carrousel lumineux,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,corriger,,
+loueur,ambiance,chiffre ou lettre lumineuse,0,chiffre ou lettre lumineuse,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,ciel étoilé,2,ciel étoilé,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,guirlandes lumineuses,3,guirlandes lumineuses,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,jeux de lumières,3,jeux de lumières,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,lumières indirectes,2,lumières indirectes,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,machine à bulles,1,machine à bulles,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,machine à fumée,2,machine à fumée,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,machine à étincelles,1,machine à étincelles,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,néons,1,néons,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+loueur,ambiance,projecteurs,2,projecteurs,Ambiance,Quelles lumières et quels effets ?,location de matériel son et lumière,garder,,
+musique,instrument,guitare,3,guitare,Ambiance,Quels instruments ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,instrument,piano,2,piano,Ambiance,Quels instruments ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,instrument,platines numériques,7,platines numériques,Ambiance,Quels instruments ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,instrument,platines vinyles,2,platines vinyles,Ambiance,Quels instruments ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,instrument,saxophone,4,saxophone,Ambiance,Quels instruments ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,instrument,violon,0,violon,Ambiance,Quels instruments ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,instrument,voix,6,voix,Ambiance,Quels instruments ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,afro,0,afro,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,blues,4,blues,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,chanson française,7,chanson française,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,commerciale (edm),4,commerciale (EDM),Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",reformuler,,
+musique,styles-musique,country,1,country,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,disco,5,disco,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,drum&bass,0,drum and bass,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",reformuler,,Libellé sans « & » : à valider.
+musique,styles-musique,dubstep,0,dubstep,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,electro,3,electro,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,folk,2,folk,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,funk,8,funk,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,gospel,2,gospel,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,house,7,house,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,indisoul,1,indie soul,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",corriger,,
+musique,styles-musique,jazz,8,jazz,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,latino,3,latino,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,pop,9,pop,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,r&b,7,R'n'B,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",reformuler,,Libellé sans « & » : à valider.
+musique,styles-musique,rap,3,rap,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,raï,0,raï,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,rock&roll,4,rock'n'roll,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",reformuler,,Libellé sans « & » : à valider.
+musique,styles-musique,rumba flamenca,0,rumba flamenca,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,soul,7,soul,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,techno,2,techno,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,trance,0,trance,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,styles-musique,zouk,0,zouk,Ambiance,Quels styles de musique ?,"DJ, musicien solo, chanteur solo, groupe, chorale gospel",garder,,
+musique,format-musique,chorale,2,chorale gospel,Ambiance,—,chorale gospel,devient un type,,Type de la musique live.
+musique,format-musique,dj,6,DJ,Ambiance,—,DJ,devient un type,,La question « Quel format ? » (DJ ou musique live) sert à choisir le type.
+musique,format-musique,duo,3,duo,Ambiance,—,—,supprimer,,Les duos rejoignent le type « groupe ».
+musique,format-musique,groupe,3,groupe,Ambiance,—,groupe,devient un type,,Type de la musique live.
+musique,format-musique,solo,4,solo,Ambiance,—,—,supprimer,,Remplacé par les types « musicien solo » et « chanteur solo ».
+(nouveau),,,0,avec endormissement des enfants,Animation,Jusqu'à quelle heure ?,garde d'enfants,ajouter,,Décision 6.
+(nouveau),,,0,en soirée seulement,Animation,Jusqu'à quelle heure ?,garde d'enfants,ajouter,,Décision 6.
+(nouveau),,,0,garde de nuit jusqu'au matin,Animation,Jusqu'à quelle heure ?,garde d'enfants,ajouter,,Décision 6.
+animation,jeux,animation adultes,5,animation adultes,Animation,Pour quel public ?,jeux et spectacles,devient le filtre « public »,,"Le public (adultes, enfants, les deux) filtre les types : ce n'est plus un mot-clé."
+animation,jeux,animation enfants,4,animation enfants,Animation,Pour quel public ?,jeux et spectacles,devient le filtre « public »,,"Le public (adultes, enfants, les deux) filtre les types : ce n'est plus un mot-clé."
+animation,art visuel,animation motion design,0,animation motion design,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,aquarelle,1,aquarelle,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,bar à paillette,1,bar à paillette,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,body painting,0,body painting,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,calligraphie,0,calligraphie,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,caricature,0,caricature,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,croquis,2,croquis,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,création artistique en direct,1,création artistique en direct,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,dessin numérique,0,dessin numérique,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,fresque,1,fresque,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,graff,0,graff,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,gravure,0,gravure,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,light painting,0,light painting,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,maquillage,1,maquillage adultes,Animation,Quel art visuel ?,art visuel,reformuler,,Séparé en adultes et enfants pour le filtre « public ».
+(nouveau),,,0,maquillage enfants,Animation,Quel art visuel ?,art visuel,ajouter,,Décision 13.
+animation,art visuel,peinture,1,peinture,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,projection vidéo mapping,0,projection vidéo mapping,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,réaliste,0,réaliste,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,sérigraphie,0,sérigraphie,Animation,Quel art visuel ?,art visuel,garder,,
+animation,art visuel,tatouage,0,tatouage,Animation,Quel art visuel ?,art visuel,garder,,
+esthétique,prestations,tatouage semi-permanent,0,tatouage semi-permanent,Animation,Quel art visuel ?,art visuel,garder,,Bar à tatouage (animation adultes).
+animation,art visuel,tatouage éphémère,1,tatouage éphémère,Animation,Quel art visuel ?,art visuel,garder,,
+animation,atelier,atelier de création,0,atelier de création,Animation,Quel atelier ?,ateliers créatifs,garder,,Premier mot-clé du type « ateliers créatifs ».
+humain,cérémonie,institutionnelle,0,institutionnelle,Animation,Quel type de cérémonie ?,prise de parole,garder,,Question gardée pour l'officiant (décision 11).
+humain,cérémonie,laïque,0,laïque,Animation,Quel type de cérémonie ?,prise de parole,garder,,Question gardée pour l'officiant (décision 11).
+humain,cérémonie,professionnelle,0,professionnelle,Animation,Quel type de cérémonie ?,prise de parole,garder,,Question gardée pour l'officiant (décision 11).
+humain,cérémonie,religieuse,0,religieuse,Animation,Quel type de cérémonie ?,prise de parole,garder,,Question gardée pour l'officiant (décision 11).
+humain,cérémonie,scolaire,0,scolaire,Animation,Quel type de cérémonie ?,prise de parole,garder,,Question gardée pour l'officiant (décision 11).
+humain,cérémonie,spirituelle,0,spirituelle,Animation,Quel type de cérémonie ?,prise de parole,garder,,Question gardée pour l'officiant (décision 11).
+(nouveau),,,0,atelier maquillage,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,chasse au trésor,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,construction,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux calmes,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux collectifs,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux de réflexion,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux de société,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux dynamiques,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux en extérieur,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux gonflables,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,jeux sportifs,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,lecture,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,piscine à balles,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+(nouveau),,,0,trampoline,Animation,Quelles activités ?,garde d'enfants,ajouter,,Décision 5.
+animation,performers,accrobaties,0,acrobaties,Animation,Quelles performances ?,performers,corriger,,
+animation,performers,cracheur de feu,0,cracheur de feu,Animation,Quelles performances ?,performers,garder,,
+animation,performers,danse aérienne,0,danse aérienne,Animation,Quelles performances ?,performers,garder,,
+animation,performers,danse lumineuse,0,danse lumineuse,Animation,Quelles performances ?,performers,garder,,
+animation,performers,danse typique,0,danse typique,Animation,Quelles performances ?,performers,garder,,
+animation,performers,drônes lumineux,0,drones lumineux,Animation,Quelles performances ?,performers,corriger,,
+animation,performers,feu d'artifice,0,feu d'artifice,Animation,Quelles performances ?,performers,garder,,
+animation,performers,flammes,0,flammes,Animation,Quelles performances ?,performers,garder,,
+animation,performers,fumée,0,fumée,Animation,Quelles performances ?,performers,garder,,
+animation,performers,fumée colorée,0,fumée colorée,Animation,Quelles performances ?,performers,garder,,
+animation,performers,jongleur,0,jongleur,Animation,Quelles performances ?,performers,garder,,
+animation,performers,échassier,0,échassier,Animation,Quelles performances ?,performers,garder,,
+animation,performers,étincelles,0,étincelles,Animation,Quelles performances ?,performers,garder,,
+animation,bien-être,massage,0,massage,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,
+animation,bien-être,méditation,0,méditation,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,
+animation,bien-être,relaxation,0,relaxation,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,
+animation,bien-être,réflexologie,0,réflexologie,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,
+animation,bien-être,soin corps,1,soin corps,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,Atelier collectif (ex. EVJF). Les soins individuels sont en Beauté et style.
+animation,bien-être,soin visage,0,soin visage,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,Atelier collectif (ex. EVJF). Les soins individuels sont en Beauté et style.
+animation,bien-être,sonothérapie,0,sonothérapie,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,
+animation,bien-être,sophrologie,0,sophrologie,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,
+animation,bien-être,yoga,0,yoga,Animation,Quels ateliers bien-être ?,ateliers bien-être,garder,,
+animation,jeux,chasse au trésor,3,chasse au trésor,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,close-up,1,close-up,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,comédien infiltré,2,comédien infiltré,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,ambulant,1,déambulant,Animation,Quels jeux ou spectacles ?,jeux et spectacles,reformuler,,Animation qui se déplace au milieu du public. « Ambulant » est gardé côté restauration.
+animation,jeux,escape game,2,escape game,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,hypnotiseur,1,hypnotiseur,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,illusioniste,1,illusionniste,Animation,Quels jeux ou spectacles ?,jeux et spectacles,corriger,,
+animation,jeux,jeux culinaires,0,jeux culinaires,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,jeux en bois,2,jeux en bois,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,jeux musicaux,0,jeux musicaux,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,jeux xxl,3,jeux xxl,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,magicien,1,magicien,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,mentaliste,1,mentaliste,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,olympiades,2,olympiades,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,spectacle,3,spectacle,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,bien-être,sport,1,sport,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,Avec les jeux (décision 16).
+animation,jeux,structure gonflable,0,structure gonflable,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,"Pour les enfants (château gonflable…). « Espace gonflable » est le pendant adultes, en Lieu."
+animation,jeux,théâtre,1,théâtre,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+animation,jeux,théâtre impro,1,théâtre impro,Animation,Quels jeux ou spectacles ?,jeux et spectacles,garder,,
+humain,fonction,officiant,0,officiant,Animation,Qui doit prendre la parole ?,prise de parole,garder,,
+(nouveau),,,0,speaker / maître de cérémonie,Animation,Qui doit prendre la parole ?,prise de parole,ajouter,,Décision sur la prise de parole.
+humain,ton,engagé,0,engagé,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,humoristique,0,humoristique,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,inspirant,0,inspirant,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,intime,0,intime,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,joyeux,0,joyeux,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,poétique,0,poétique,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,profond,0,profond,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,solennel,0,solennel,Animation,Sur quel ton ?,prise de parole,garder,,
+humain,ton,émouvant,0,émouvant,Animation,Sur quel ton ?,prise de parole,garder,,
+audiovisuel,cadre,café,10,café,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,champ,13,champ,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,en extérieur,12,en extérieur,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,en intérieur,10,en intérieur,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,forêt,14,forêt,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,gare,2,gare,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,jardin,8,jardin,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,montagne,13,montagne,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,plage,12,plage,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,studio,3,studio,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,cadre,urbain,9,urbain,Image,Dans quel cadre ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,styles-audiovisuel,authentique,9,authentique,Image,Quel style d'images ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,styles-audiovisuel,décalé,1,décalé,Image,Quel style d'images ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,styles-audiovisuel,minimaliste,1,minimaliste,Image,Quel style d'images ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,styles-audiovisuel,noir et blanc,1,noir et blanc,Image,Quel style d'images ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,styles-audiovisuel,original,2,original,Image,Quel style d'images ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,styles-audiovisuel,pop,1,pop,Image,Quel style d'images ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,styles-audiovisuel,rétro,1,rétro,Image,Quel style d'images ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,technologie,drône,3,drone,Image,Quelle technique ?,"photographe, vidéaste, duo photo et vidéo",corriger,,
+audiovisuel,technologie,photo argentique,1,photo argentique,Image,Quelle technique ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,technologie,photo numérique,14,photo numérique,Image,Quelle technique ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,technologie,vidéo numérique,6,vidéo numérique,Image,Quelle technique ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,cocktail,13,cocktail,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,couple,14,couple,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,cérémonie,15,cérémonie,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,de groupe,15,de groupe,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,de marque,12,de marque,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,demande en mariage,13,demande en mariage,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,grossesse,14,grossesse,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,individuel,8,individuel,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,lifestyle,15,lifestyle,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,mariage civil,14,mariage civil,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,mariage laïque,4,mariage laïque,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,mariage religieux,14,mariage religieux,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,naissance,13,naissance,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,préparatifs,14,préparatifs,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,soirée,15,soirée,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+audiovisuel,shootings,studio,3,studio,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",supprimer,,"Doublon : gardé une seule fois, sous « Dans quel cadre ? »."
+audiovisuel,shootings,duo,9,séance à deux,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",reformuler,,
+audiovisuel,shootings,vin d'honneur,15,vin d'honneur,Image,Quels moments immortaliser ?,"photographe, vidéaste, duo photo et vidéo",garder,,
+loueur,audiovisuel,livre d'or audio,5,livre d'or audio,Image,—,livre d'or audio,devient un type,,"C'est le nom d'un type de la catégorie Image, plus un mot-clé."
+loueur,audiovisuel,photo-booth,5,photobooth,Image,—,photobooth,devient un type,,"C'est le nom d'un type de la catégorie Image, plus un mot-clé."
+loueur,audiovisuel,photomaton,2,photomaton,Image,—,photomaton,devient un type,,"C'est le nom d'un type de la catégorie Image, plus un mot-clé."
+loueur,audiovisuel,vidéo-booth,3,vidéobooth,Image,—,vidéobooth,devient un type,,"C'est le nom d'un type de la catégorie Image, plus un mot-clé."
+décoration,besoin,identité visuelle,5,identité visuelle,Déco,De quoi avez-vous besoin ?,"décorateur, graphiste et papeterie",garder,,
+décoration,besoin,impression,2,impression,Déco,De quoi avez-vous besoin ?,"décorateur, graphiste et papeterie",garder,,
+décoration,besoin,logo,1,logo,Déco,De quoi avez-vous besoin ?,"décorateur, graphiste et papeterie",garder,,
+décoration,besoin,mood-board,6,mood-board,Déco,De quoi avez-vous besoin ?,"décorateur, graphiste et papeterie",garder,,
+décoration,besoin,papeterie,4,papeterie,Déco,De quoi avez-vous besoin ?,"décorateur, graphiste et papeterie",garder,,
+décoration,besoin,scénographie,5,scénographie,Déco,De quoi avez-vous besoin ?,décorateur,garder,,
+décoration,besoin,signalétique,6,signalétique,Déco,De quoi avez-vous besoin ?,"décorateur, graphiste et papeterie",garder,,
+loueur,table,bancs,1,bancs,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,bonbonne,2,bonbonne,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,centre de table,2,centre de table,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,"Objet loué, différent de la composition florale : on garde les deux."
+loueur,table,chaises,2,chaises,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,chaises hautes,2,chaises hautes,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,housse de chaise,0,housse de chaise,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,housse de mange-debout,3,housse de mange-debout,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,mange-debout,4,mange-debout,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,nappes,3,nappes,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,serviettes,1,serviettes,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,table,3,table,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,table basse,0,table basse,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,vaisselle,4,vaisselle,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+loueur,table,verrerie,2,verrerie,Déco,Quel art de la table souhaitez-vous louer ?,"location de mobilier, location d'art de la table",garder,,
+décoration,matériel-déco,linge de table,2,linge de table,Déco,Quel matériel doit être fourni ?,décorateur,garder,,
+décoration,matériel-déco,mobilier,2,mobilier,Déco,Quel matériel doit être fourni ?,décorateur,garder,,Pas de fusion avec la location (décision 16) : matériel apporté par le décorateur.
+décoration,matériel-déco,objets déco,4,objets déco,Déco,Quel matériel doit être fourni ?,décorateur,garder,,
+décoration,matériel-déco,vaisselle,1,vaisselle,Déco,Quel matériel doit être fourni ?,décorateur,garder,,Pas de fusion avec la location (décision 16) : matériel apporté par le décorateur.
+décoration,matériel-déco,verrerie,1,verrerie,Déco,Quel matériel doit être fourni ?,décorateur,garder,,Pas de fusion avec la location (décision 16) : matériel apporté par le décorateur.
+loueur,décoration,bar,3,bar,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,canapé,2,canapé,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,comptoir,3,comptoir,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,dame jeanne,2,dame jeanne,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,fauteuil,2,fauteuil,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,guirlandes,1,guirlandes,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,jarre,2,jarre,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,pouf,0,pouf,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,structure arche,2,structure arche,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+loueur,décoration,vase,2,vase,Déco,Quel mobilier souhaitez-vous louer ?,location de mobilier,garder,,
+décoration,styles-déco,aérien,2,aérien,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,chaleureux,0,chaleureux,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,classique,0,classique,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,coloré,2,coloré,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,dense,0,dense,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,doux,0,doux,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,destructuré,2,déstructuré,Déco,Quel style de déco ?,"décorateur, fleuriste",corriger,,
+décoration,styles-déco,exotique,0,exotique,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,floral,2,floral,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,fourni,0,fourni,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,immersif,0,immersif,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,léger,2,léger,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,minimaliste,0,minimaliste,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,monochrome,0,monochrome,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,naturel,2,naturel,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,pastel,2,pastel,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,simple,0,simple,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,thèmes enfant,0,thèmes enfant,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,verdoyant,2,verdoyant,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,vintage,0,vintage,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,styles-déco,végétal,2,végétal,Déco,Quel style de déco ?,"décorateur, fleuriste",garder,,
+décoration,procédé,broderie,0,broderie,Déco,Quelle finition ?,"graphiste et papeterie, cadeaux invités",garder,,
+décoration,procédé,emballage,0,emballage,Déco,Quelle finition ?,"graphiste et papeterie, cadeaux invités",garder,,
+décoration,procédé,gravure,1,gravure,Déco,Quelle finition ?,"graphiste et papeterie, cadeaux invités",garder,,
+décoration,procédé,impression,1,impression,Déco,Quelle finition ?,"graphiste et papeterie, cadeaux invités",garder,,
+décoration,procédé,sérigraphie,0,sérigraphie,Déco,Quelle finition ?,"graphiste et papeterie, cadeaux invités",garder,,
+décoration,procédé,étiquetage,0,étiquetage,Déco,Quelle finition ?,"graphiste et papeterie, cadeaux invités",garder,,
+décoration,végétaux,arbre ou arbuste,2,arbre ou arbuste,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,arche fleurie,4,arche fleurie,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,bouquet de mariée,3,bouquet de mariée,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,boutonnière,3,boutonnière,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,centre de table,2,centre de table,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,composition florale,3,composition florale,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,design floral,4,design floral,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,fleurs brutes,0,fleurs brutes,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,mousse végétale,0,mousse végétale,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,multi bouquets,2,multi bouquets,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,mur végétal,2,mur végétal,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,plante en pot,2,plante en pot,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,pétales libres,3,pétales libres,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,végétaux,structure feuillue,2,structure feuillue,Déco,Quelles créations florales ?,"fleuriste, paysagiste",garder,,
+décoration,texture,en papier,0,en papier,Déco,Quelles fleurs ?,fleuriste,garder,,
+décoration,texture,en soie,0,en soie,Déco,Quelles fleurs ?,fleuriste,garder,,
+décoration,texture,fraîche,3,fraîche,Déco,Quelles fleurs ?,fleuriste,garder,,
+décoration,texture,stabilisée,2,stabilisée,Déco,Quelles fleurs ?,fleuriste,garder,,
+décoration,texture,séchée,3,séchée,Déco,Quelles fleurs ?,fleuriste,garder,,
+décoration,cadeaux personnalisés,aromates,0,aromates,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,bijou,0,bijou,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,biscuits,0,biscuits,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,bouchon,0,bouchon,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,caramel,0,caramel,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,confiture,0,confiture,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,dessin,0,dessin,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,dragés,0,dragés,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,gobelet,0,gobelet,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,graines à planter,0,graines à planter,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,huile d'olive,0,huile d'olive,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,liqueur,0,liqueur,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,magnet,0,magnet,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,marque page,0,marque page,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,miel,0,miel,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,mini jeu,0,mini jeu,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,mini plante,0,mini plante,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,paille,0,paille,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,porte-clé,0,porte-clé,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,praline,0,praline,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,pâte à tartiner,0,pâte à tartiner,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,savon,0,savon,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,soin,0,soin,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,sticker,0,sticker,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,sucette,0,sucette,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,tatouage,0,tatouage,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,thé-infusion,0,thé-infusion,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,ticket à gratter,0,ticket à gratter,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,tote-bag,0,tote-bag,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,épices,0,épices,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,cadeaux personnalisés,éventail,0,éventail,Déco,Quels cadeaux pour les invités ?,cadeaux invités,garder,,
+décoration,options-déco,coordination,3,coordination,Déco,Quels services autour de la déco ?,"décorateur, fleuriste",garder,,Service du décorateur : gardé (décision 20).
+décoration,options-déco,démontage,6,démontage,Déco,Quels services autour de la déco ?,"décorateur, fleuriste",garder,,
+décoration,options-déco,installation,6,installation,Déco,Quels services autour de la déco ?,"décorateur, fleuriste",garder,,
+décoration,options-déco,livraison,6,livraison,Déco,Quels services autour de la déco ?,"décorateur, fleuriste",garder,,
+décoration,options-déco,nettoyage,3,nettoyage,Déco,Quels services autour de la déco ?,"décorateur, fleuriste",garder,,
+transport,chauffeur,aucun,0,aucun,Service,Avec chauffeur ?,"transport des invités, véhicules de cérémonie",garder,,
+transport,chauffeur,obligatoire,0,obligatoire,Service,Avec chauffeur ?,"transport des invités, véhicules de cérémonie",garder,,
+transport,chauffeur,proposé,1,proposé,Service,Avec chauffeur ?,"transport des invités, véhicules de cérémonie",garder,,
+transport,couleur,beige,1,beige,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,blanc,1,blanc,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,bleu,1,bleu,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,gris,1,gris,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,jaune,1,jaune,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,marron,1,marron,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,noir,1,noir,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,orange,1,orange,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,rose,1,rose,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,rouge,1,rouge,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,vert,1,vert,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,couleur,violet,1,violet,Service,De quelle couleur ?,véhicules de cérémonie,garder,,
+transport,moyen,attelage,1,attelage,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,autocar,0,autocar,Service,Quel moyen de transport ?,transport des invités,garder,,
+transport,moyen,avion,0,avion,Service,Quel moyen de transport ?,transport des invités,garder,,
+transport,moyen,bâteau,0,bateau,Service,Quel moyen de transport ?,transport des invités,corriger,,
+transport,moyen,calèche,1,calèche,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,camion,0,camion,Service,Quel moyen de transport ?,livraison de matériel,garder,,
+transport,moyen,camion réfrigéré,0,camion réfrigéré,Service,Quel moyen de transport ?,livraison de matériel,garder,,
+transport,moyen,cheval,0,cheval,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,hélicoptère,0,hélicoptère,Service,Quel moyen de transport ?,transport des invités,garder,,
+transport,moyen,limousine,0,limousine,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,minibus,0,minibus,Service,Quel moyen de transport ?,transport des invités,garder,,
+transport,moyen,moto,0,moto,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,pick-up,0,pick-up,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,poney,0,poney,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,quad,0,quad,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,scooter,0,scooter,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,sidecar,0,sidecar,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,tandem,0,tandem,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,tricycle,0,tricycle,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,utilitaire,0,utilitaire,Service,Quel moyen de transport ?,livraison de matériel,garder,,
+transport,moyen,van,0,van,Service,Quel moyen de transport ?,transport des invités,garder,,
+transport,moyen,voiture,1,voiture,Service,Quel moyen de transport ?,"transport des invités, véhicules de cérémonie",garder,,
+transport,moyen,voiturette,0,voiturette,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,moyen,vélo,0,vélo,Service,Quel moyen de transport ?,véhicules de cérémonie,garder,,
+transport,style-transport,4x4,0,4x4,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,berline,0,berline,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,champêtre,0,champêtre,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,citadine,0,citadine,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,classique,1,classique,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,de collection,1,de collection,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,décapotable,1,décapotable,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,français,1,français,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,moderne,0,moderne,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,nature,1,nature,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,sportif,0,sportif,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,suv,0,suv,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,vespa,0,vespa,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,vintage,1,vintage,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,style-transport,électrique,0,électrique,Service,Quel style de véhicule ?,véhicules de cérémonie,garder,,
+transport,trajet,aucun,0,aucun,Service,Quelle distance ?,"transport des invités, véhicules de cérémonie",garder,,
+transport,trajet,illimité,1,illimité,Service,Quelle distance ?,"transport des invités, véhicules de cérémonie",garder,,
+transport,trajet,moyen,1,moyen,Service,Quelle distance ?,"transport des invités, véhicules de cérémonie",garder,,
+transport,trajet,petit,1,petit,Service,Quelle distance ?,"transport des invités, véhicules de cérémonie",garder,,
+logistique,proposition,démontage,0,démontage,Service,Quels services logistiques ?,"installation et démontage, ménage, sécurité, livraison de matériel",garder,,
+logistique,proposition,installation,0,installation,Service,Quels services logistiques ?,"installation et démontage, ménage, sécurité, livraison de matériel",garder,,
+logistique,proposition,livraison,0,livraison,Service,Quels services logistiques ?,"installation et démontage, ménage, sécurité, livraison de matériel",garder,,
+logistique,proposition,transport,0,livraison,Service,Quels services logistiques ?,"installation et démontage, ménage, sécurité, livraison de matériel",fusionner,,Fusionné avec « livraison » (livraison de matériel).
+logistique,proposition,ménage,0,ménage,Service,Quels services logistiques ?,"installation et démontage, ménage, sécurité, livraison de matériel",garder,,
+logistique,proposition,rangement,0,rangement,Service,Quels services logistiques ?,"installation et démontage, ménage, sécurité, livraison de matériel",garder,,
+logistique,proposition,sécurité,0,sécurité,Service,Quels services logistiques ?,"installation et démontage, ménage, sécurité, livraison de matériel",garder,,
+look,acquisition,achat,0,achat,Beauté et style,Achat ou location ?,tenues,garder,,
+look,acquisition,location,0,location,Beauté et style,Achat ou location ?,tenues,garder,,
+beauté,matériel-beauté,broche,1,broche,Beauté et style,Des accessoires de coiffure ?,coiffure,garder,,
+beauté,matériel-beauté,couronne,0,couronne,Beauté et style,Des accessoires de coiffure ?,coiffure,garder,,
+beauté,matériel-beauté,fleurs,1,fleurs,Beauté et style,Des accessoires de coiffure ?,coiffure,garder,,
+beauté,matériel-beauté,peigne,0,peigne,Beauté et style,Des accessoires de coiffure ?,coiffure,garder,,
+beauté,matériel-beauté,voile,0,voile,Beauté et style,Des accessoires de coiffure ?,coiffure,garder,,
+beauté,adaptabilité,anti-allergéniques,2,anti-allergéniques,Beauté et style,Des besoins particuliers ?,"coiffure, maquillage",garder,,
+beauté,adaptabilité,cheveux afro,0,cheveux afro,Beauté et style,Des besoins particuliers ?,"coiffure, maquillage",garder,,
+beauté,adaptabilité,cheveux frisés,0,cheveux frisés,Beauté et style,Des besoins particuliers ?,"coiffure, maquillage",garder,,
+beauté,adaptabilité,peaux foncées,2,peaux foncées,Beauté et style,Des besoins particuliers ?,"coiffure, maquillage",garder,,
+beauté,adaptabilité,peaux matures,2,peaux matures,Beauté et style,Des besoins particuliers ?,"coiffure, maquillage",garder,,
+beauté,adaptabilité,produits naturels,1,produits naturels,Beauté et style,Des besoins particuliers ?,"coiffure, maquillage",garder,,
+esthétique,emplacement,en institut,0,en institut,Beauté et style,Où doit avoir lieu le soin ?,"ongles, cils et sourcils, soins",garder,,
+esthétique,emplacement,à domicile,0,à domicile,Beauté et style,Où doit avoir lieu le soin ?,"ongles, cils et sourcils, soins",garder,,
+beauté,client,avec invités,2,avec invités,Beauté et style,Pour qui ?,"coiffure, maquillage",garder,,
+beauté,client,mariée,2,les mariés,Beauté et style,Pour qui ?,"coiffure, maquillage",reformuler,,
+beauté,client,unique,2,unique,Beauté et style,Pour qui ?,"coiffure, maquillage",garder,,
+beauté,maquillage,coloré,0,coloré,Beauté et style,Quel maquillage ?,maquillage,garder,,
+beauté,maquillage,contouring,2,contouring,Beauté et style,Quel maquillage ?,maquillage,garder,,
+beauté,maquillage,monochromatique,1,monochrome,Beauté et style,Quel maquillage ?,maquillage,corriger,,
+beauté,maquillage,nude,2,nude,Beauté et style,Quel maquillage ?,maquillage,garder,,
+beauté,maquillage,paillettes,0,paillettes,Beauté et style,Quel maquillage ?,maquillage,garder,,
+beauté,maquillage,smoky,1,smoky,Beauté et style,Quel maquillage ?,maquillage,garder,,
+beauté,maquillage,soirée,2,soirée,Beauté et style,Quel maquillage ?,maquillage,garder,,
+beauté,coiffure,glamour,3,glamour,Beauté et style,Quel style de coiffure ?,coiffure,garder,,
+beauté,coiffure,gothique,0,gothique,Beauté et style,Quel style de coiffure ?,coiffure,garder,,
+beauté,coiffure,naturel,2,naturel,Beauté et style,Quel style de coiffure ?,coiffure,garder,,
+beauté,coiffure,rétro chic,1,rétro chic,Beauté et style,Quel style de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,balayage,0,balayage,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,brushing,1,brushing,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,chignon bas,1,chignon bas,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,chignon haut,1,chignon haut,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,coloration,0,coloration,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,coupe le jour-J,0,coupe le jour-J,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,lissage,0,lissage,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,tresse,1,tresse,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+beauté,presta coiffure,wavy,1,wavy,Beauté et style,Quelle prestation de coiffure ?,coiffure,garder,,
+esthétique,prestations,browlift,0,brow lift,Beauté et style,Quelle prestation pour les cils et sourcils ?,cils et sourcils,corriger,,
+esthétique,prestations,extension de cils,0,extension de cils,Beauté et style,Quelle prestation pour les cils et sourcils ?,cils et sourcils,garder,,
+esthétique,prestations,réhaussement de cils,0,rehaussement de cils,Beauté et style,Quelle prestation pour les cils et sourcils ?,cils et sourcils,corriger,,
+esthétique,prestations,teinture de cils,0,teinture de cils,Beauté et style,Quelle prestation pour les cils et sourcils ?,cils et sourcils,garder,,
+esthétique,prestations,teinture de sourcils,0,teinture de sourcils,Beauté et style,Quelle prestation pour les cils et sourcils ?,cils et sourcils,garder,,
+esthétique,prestations,capsules,0,capsules,Beauté et style,Quelle prestation pour les ongles ?,ongles,garder,,
+esthétique,prestations,manucure,0,manucure,Beauté et style,Quelle prestation pour les ongles ?,ongles,garder,,
+esthétique,prestations,nail-art,0,nail-art,Beauté et style,Quelle prestation pour les ongles ?,ongles,garder,,
+esthétique,prestations,pédicure,0,pédicure,Beauté et style,Quelle prestation pour les ongles ?,ongles,garder,,
+esthétique,prestations,vernis gel,0,vernis gel,Beauté et style,Quelle prestation pour les ongles ?,ongles,garder,,
+esthétique,prestations,vernis semi-permanent,0,vernis semi-permanent,Beauté et style,Quelle prestation pour les ongles ?,ongles,garder,,
+look,femme,accessoires,0,accessoires,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,bijoux,0,bijoux,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,chaussures,0,chaussures,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,combinaison,0,combinaison,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,ensemble,0,ensemble,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,maroquinerie,0,maroquinerie,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,robe de cocktail,0,robe de cocktail,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,robe de demoiselle,0,robe de demoiselle,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,robe de mariée,0,robe de mariée,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,femme,tailleur,0,tailleur,Beauté et style,Quelle tenue pour elle ?,tenues,garder,,
+look,homme,accessoires,0,accessoires,Beauté et style,Quelle tenue pour lui ?,tenues,garder,,
+look,homme,chaussures,0,chaussures,Beauté et style,Quelle tenue pour lui ?,tenues,garder,,
+look,homme,chemise,0,chemise,Beauté et style,Quelle tenue pour lui ?,tenues,garder,,
+look,homme,costume,0,costume,Beauté et style,Quelle tenue pour lui ?,tenues,garder,,
+look,homme,smoking,0,smoking,Beauté et style,Quelle tenue pour lui ?,tenues,garder,,
+esthétique,prestations,maquillage semi-permanent,0,maquillage semi-permanent,Beauté et style,Quels soins ?,soins,garder,,"Esthétique durable (sourcils, lèvres)."
+esthétique,prestations,massage,0,massage,Beauté et style,Quels soins ?,soins,garder,,"Soin individuel (décision 6) : même intitulé que l'atelier en Animation, sens différent."
+esthétique,prestations,relaxation,0,relaxation,Beauté et style,Quels soins ?,soins,garder,,"Soin individuel (décision 6) : même intitulé que l'atelier en Animation, sens différent."
+esthétique,prestations,réflexologie,0,réflexologie,Beauté et style,Quels soins ?,soins,garder,,"Soin individuel (décision 6) : même intitulé que l'atelier en Animation, sens différent."
+esthétique,prestations,soin du visage,0,soin du visage,Beauté et style,Quels soins ?,soins,garder,,
+esthétique,prestations,spa,0,spa,Beauté et style,Quels soins ?,soins,garder,,
+esthétique,prestations,épilation,0,épilation,Beauté et style,Quels soins ?,soins,garder,,
+humain,qualités,communiquant,1,communiquant,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,discret,0,discret,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,flexible,0,flexible,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,leadership,0,leadership,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,organisé,1,organisé,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,passionné,1,passionné,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,rigoureux,0,rigoureux,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,réactif,0,réactif,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,sens des priorités,0,sens des priorités,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,sens du détail,1,sens du détail,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,qualités,à l'écoute,1,à l'écoute,(en attente),Qualités du coordinateur,coordinateur (janvier 2027),mis de côté,,Qualités du coordinateur : reportées avec la coordination (janvier 2027).
+humain,fonction,coordinateur,0,coordinateur,(en attente),—,coordinateur (janvier 2027),mis de côté,,Coordination du jour J : reportée à janvier 2027.
+lieux,écoresp-lieux,achat d'occasion,1,achat d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,achat de reconditionné,0,achat de reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,achat de vrac,0,achat de vrac,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,achats vrac,8,achats vrac,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,batteries solaires,0,batteries solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,batteries solaires,0,batteries solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,batteries solaires,0,batteries solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,batteries solaires,0,batteries solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,batteries solaires,0,batteries solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,biodynamie,3,biodynamie,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,circuit court,0,circuit court,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,circuit court,13,circuit court,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,circuit court,3,circuit court,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,circuit court,0,circuit court,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,circuit court,18,circuit court,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,circuit court,1,circuit court,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,circuit court,2,circuit court,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,cloud vert,2,cloud vert,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,cloud vert,0,cloud vert,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,cloud vert,0,cloud vert,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,compost,0,compost,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,compost,1,compost,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,compost,19,compost,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,compost,4,compost,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,compression des fichiers max,0,compression des fichiers max,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,compression fichier max,2,compression fichier max,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,compression fichiers max,0,compression fichiers max,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,consigne,11,consigne,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,consigne,2,consigne,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,consignes,0,consignes,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,contenants réutilisables,3,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,contenants réutilisables,1,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,contenants réutilisables,0,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,contenants réutilisables,15,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,contenants réutilisables,4,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,contenants réutilisables,0,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,contenants réutilisables,4,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,contenants réutilisables,3,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,contenants réutilisables,0,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,contenants réutilisables,0,contenants réutilisables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,covoiturage,3,covoiturage,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,covoiturage,12,covoiturage,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,covoiturage,0,covoiturage,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,covoiturage,0,covoiturage,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,covoiturage,0,covoiturage,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,covoiturage,0,covoiturage,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,covoiturage,2,covoiturage,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,dons à des associations,0,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,dons à des associations,1,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,dons à des associations,1,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,dons à des associations,0,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,dons à des associations,1,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,dons à des associations,1,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,dons à des associations,0,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,dons à des associations,0,dons à des associations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,dons à des associtations,0,dons à des associtations,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,déplacement à vélo,0,déplacement à vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,déplacements en vélo,1,déplacements en vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,déplacements en vélo,1,déplacements en vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,déplacements en électrique,1,déplacements en électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,déplacements vélo,2,déplacements vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,déplacements vélo,3,déplacements vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,déplacements à velo,0,déplacements à velo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,déplacements à vélo,0,déplacements à vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,déplacements à vélo,0,déplacements à vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,déplacements à vélo,0,déplacements à vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,déplacements à vélo,0,déplacements à vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,déplacements à vélo,0,déplacements à vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,déplacements à vélo,1,déplacements à vélo,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,déplacements électrique,1,déplacements électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,déplacements électrique,2,déplacements électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,déplacements électrique,1,déplacements électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,fournisseurs locaux,0,fournisseurs locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,fournisseurs locaux,0,fournisseurs locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,fournisseurs locaux,3,fournisseurs locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,fournisseurs locaux,0,fournisseurs locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,fournisseurs locaux,3,fournisseurs locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,fournisseurs responsables,0,fournisseurs responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,fournisseurs responsables,14,fournisseurs responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,fournisseurs responsables,1,fournisseurs responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,fournisseurs responsables,0,fournisseurs responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,fournisseurs responsables,3,fournisseurs responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,fournisseurs responsables,0,fournisseurs responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,fournisseurs responsables,0,fournisseurs responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,lumière led,1,lumière led,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,lumière led,7,lumière led,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,lumière led,3,lumière led,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,lumières led,6,lumières led,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,lumières led,4,lumières led,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,materiel chiné,1,materiel chiné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,materiel d'occasion,2,materiel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,materiel reconditionné,1,materiel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,matières recyclables,1,matières recyclables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,matières recyclables,0,matières recyclables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,matières recyclables,8,matières recyclables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,matières recyclables,4,matières recyclables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,matières recyclables,11,matières recyclables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,matières recyclables,1,matières recyclables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,matières recyclées,1,matières recyclées,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,matières recyclées,0,matières recyclées,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,matières recyclées,10,matières recyclées,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,matières recyclées,2,matières recyclées,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,matières recyclées,11,matières recyclées,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,matières recyclées,1,matières recyclées,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,matériel chiné,2,matériel chiné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,matériel chiné,2,matériel chiné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,matériel chiné,1,matériel chiné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,matériel chiné,0,matériel chiné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,matériel chiné,2,matériel chiné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,matériel chiné,0,matériel chiné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,matériel consigné,0,matériel consigné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,matériel d'occasion,2,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,matériel d'occasion,11,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,matériel d'occasion,0,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,matériel d'occasion,1,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,matériel d'occasion,0,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,matériel d'occasion,3,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,matériel d'occasion,0,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,matériel d'occasion,0,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,matériel d'occasion,0,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,matériel d'occasion,3,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,matériel d'occasion,0,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,matériel d'occasion,1,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+transport,écoresp-transport,matériel d'occasion,1,matériel d'occasion,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,matériel de récup,0,matériel de récup,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,matériel de récup,3,matériel de récup,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,matériel de récup,0,matériel de récup,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,matériel de récup,2,matériel de récup,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,matériel reconditionné,1,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,matériel reconditionné,11,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,matériel reconditionné,0,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,matériel reconditionné,1,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,matériel reconditionné,0,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,matériel reconditionné,2,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,matériel reconditionné,0,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,matériel reconditionné,0,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,matériel reconditionné,1,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,matériel reconditionné,0,matériel reconditionné,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,nappes et serviettes en tissu,0,nappes et serviettes en tissu,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,nappes et serviettes en tissu,1,nappes et serviettes en tissu,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,nappes et serviettes tissu,5,nappes et serviettes tissu,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,panneaux solaires,0,panneaux solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,panneaux solaires,1,panneaux solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,panneaux solaires,1,panneaux solaires,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,partenaires locaux,5,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,partenaires locaux,1,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,partenaires locaux,14,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,partenaires locaux,7,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,partenaires locaux,20,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,partenaires locaux,1,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,partenaires locaux,4,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,partenaires locaux,0,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,partenaires locaux,2,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,partenaires locaux,2,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+transport,écoresp-transport,partenaires locaux,1,partenaires locaux,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,partenaires responsables,3,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,partenaires responsables,4,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,partenaires responsables,13,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,partenaires responsables,0,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,partenaires responsables,0,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,partenaires responsables,2,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,partenaires responsables,1,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+transport,écoresp-transport,partenaires responsables,1,partenaires responsables,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,produits bio,10,produits bio,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,produits bio,14,produits bio,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,produits d'entretien naturels,2,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,produits d'entretien naturels,1,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,produits d'entretien naturels,0,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,produits d'entretien naturels,5,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,produits d'entretien naturels,0,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,produits d'entretien naturels,0,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,produits d'entretien naturels,0,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+transport,écoresp-transport,produits d'entretien naturels,1,produits d'entretien naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,produits d'entretien non polluants,0,produits d'entretien non polluants,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,produits d'entretien non polluants,3,produits d'entretien non polluants,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,produits ménagers naturels,1,produits ménagers naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,produits naturels,1,produits naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,produits naturels,0,produits naturels,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,produits non transformés,1,produits non transformés,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,produits non transformés,13,produits non transformés,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,reprise du non-consommé,10,reprise du non-consommé,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,respect des saisonnalités,4,respect des saisonnalités,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,respect saisonnalités,15,respect saisonnalités,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,récup et restauration,1,récup et restauration,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,récup et restauration,1,récup et restauration,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,récupérateur d'eau de pluie,2,récupérateur d'eau de pluie,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,réduction de papier,1,réduction de papier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,réduction des plastiques,3,réduction des plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,réduction des plastiques,0,réduction des plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,réduction des plastiques,0,réduction des plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,réduction des plastiques,0,réduction des plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,réduction des plastiques,0,réduction des plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,réduction des plastiques,0,réduction des plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,réduction des plastiques,1,réduction des plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,réduction du papier,2,réduction du papier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,réduction du papier,0,réduction du papier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,réduction du papier,0,réduction du papier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,réduction du papier,0,réduction du papier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,réduction papiers,1,réduction papiers,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,réduction plastiques,11,réduction plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,réduction plastiques,1,réduction plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,réduction plastiques,12,réduction plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,réduction plastiques,3,réduction plastiques,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,toilettes sèches,0,toilettes sèches,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,transport en commmun,0,transport en commmun,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,transport en commun,0,transport en commun,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,transport en commun,0,transport en commun,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,transports en commun,2,transports en commun,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,transports en commun,2,transports en commun,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,travaux d'isolation,3,travaux d'isolation,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,tri de stockage régulier,13,tri de stockage régulier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,tri de stockage régulier,0,tri de stockage régulier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+musique,écoresp-musique,tri de stockage régulier,1,tri de stockage régulier,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,tri des déchets,2,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,tri des déchets,0,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,tri des déchets,14,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,tri des déchets,3,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,tri des déchets,0,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,tri des déchets,18,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+lieux,écoresp-lieux,tri des déchets,7,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,tri des déchets,0,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,tri des déchets,0,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+service,écoresp-service,tri des déchets,2,tri des déchets,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+look,écoresp-look,vente de seconde main,0,vente de seconde main,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+boisson,écoresp-boisson,vin naturel,3,vin naturel,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,vraie vaisselle,1,vraie vaisselle,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+food,écoresp-food,vraie vaisselle,5,vraie vaisselle,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,vraie vaisselle,1,vraie vaisselle,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+animation,écoresp-animation,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+audiovisuel,écoresp-audiovisuel,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+beauté,écoresp-beauté,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+décoration,écoresp-déco,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+esthétique,écoresp-esthétique,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+humain,écoresp-humain,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+logistique,écoresp-logistique,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+loueur,écoresp-loueur,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
+transport,écoresp-transport,véhicule électrique,0,véhicule électrique,(éco-score),,,retiré du matching,,Conservé pour l'éco-score.
